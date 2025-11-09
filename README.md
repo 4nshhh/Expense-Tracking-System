@@ -62,7 +62,7 @@ The system supports persistent data storage using **MySQL** and ensures smooth i
 ## 📊 Example Screenshots
 
 ### ➕ Add/Update Expenses
-![](assets/add_update.png)
+![](assets/add_update_1.png)
 
 ### 📈 Analytics Dashboard
 ![](assets/analytics_dashboard.png)
