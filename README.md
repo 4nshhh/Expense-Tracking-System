@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Backend (FastAPI)
 ```
 cd "./backend"
-uvicorn backend.server:app --reload
+uvicorn server:app --reload
 ```
 ### 4️⃣ Run the Frontend (Streamlit)
 ```
