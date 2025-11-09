@@ -1,0 +1,438 @@
+2025-11-08 17:19:55,669 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 17:20:12,219 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 17:21:19,130 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 17:21:56,505 - INFO - delete_expense_for_date called for 2025-11-08
+2025-11-08 17:21:56,515 - INFO - insert_expense called with data : 2025-11-08, amount : 2550.0,category : Entertainment,notes : Dance tickets
+2025-11-08 17:21:56,532 - INFO - insert_expense called with data : 2025-11-08, amount : 4000.0,category : Shopping,notes : New Lipstick
+2025-11-08 17:22:48,578 - INFO - delete_expense_for_date called for 2025-11-08
+2025-11-08 22:37:40,897 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 22:37:54,059 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 22:38:28,089 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 22:39:15,395 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 22:39:47,006 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 22:40:03,292 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 22:40:05,964 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-08 22:40:08,838 - INFO - fetch_expenses_for_date called for 2024-08-04
+2025-11-08 22:41:20,503 - INFO - fetch_expenses_for_date called for 2024-08-04
+2025-11-08 22:41:31,625 - INFO - fetch_expenses_for_date called for 2024-06-04
+2025-11-08 22:41:55,816 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:37:23,554 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:38:10,093 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:38:42,509 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:39:33,717 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:40:00,209 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:40:13,101 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:40:19,768 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:41:15,531 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:41:28,690 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:41:35,797 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:41:42,636 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:41:56,226 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:42:19,674 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:42:24,514 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:43:42,203 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:44:52,924 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:45:25,502 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-08 23:45:45,607 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 23:46:41,225 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 23:47:13,726 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 23:59:22,102 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-08 23:59:48,053 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 00:00:02,705 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 00:00:23,808 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 00:00:25,414 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 00:00:27,130 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 00:04:12,060 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 00:04:37,378 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:26:23,505 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:26:59,957 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:27:13,969 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:33:37,120 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:35:31,736 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:37:09,031 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:37:46,020 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:38:37,740 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:38:54,713 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:39:00,955 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:39:08,363 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:39:39,609 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:40:38,741 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:40:42,766 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:41:47,046 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:41:54,581 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:42:00,665 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:42:51,532 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:43:17,285 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:43:28,879 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:43:31,554 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:43:39,636 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:44:58,783 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:45:05,559 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:45:32,615 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:46:01,511 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:46:05,576 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:46:08,289 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:46:11,931 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:46:18,715 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:46:24,449 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:46:29,406 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:47:32,261 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:48:19,924 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:48:24,583 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:48:28,587 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:48:34,302 - INFO - fetch_expenses_for_date called for 2024-08-16
+2025-11-09 12:49:34,257 - INFO - fetch_expenses_for_date called for 2024-08-16
+2025-11-09 12:49:47,658 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:50:04,963 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:51:38,297 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 12:51:48,027 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:52:02,038 - INFO - fetch_expenses_for_date called for 2024-08-08
+2025-11-09 12:52:43,774 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:54:33,314 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:55:21,431 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:55:39,270 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:56:16,456 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:58:28,585 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:58:39,326 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 12:58:48,331 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 12:59:01,065 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:00:57,048 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:01:02,684 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:01:11,066 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:01:14,583 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 13:02:15,314 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:02:19,229 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:03:09,747 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:03:14,431 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:03:21,298 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 13:04:06,866 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:04:12,141 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:06:00,730 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:06:07,146 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:06:12,231 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 13:06:52,314 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:06:59,317 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:07:15,946 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:07:21,313 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:08:32,533 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:08:39,278 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:09:06,352 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:13:26,644 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:13:32,312 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:13:34,879 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:13:37,193 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 13:13:39,515 - INFO - fetch_expenses_for_date called for 2024-08-04
+2025-11-09 13:13:41,790 - INFO - fetch_expenses_for_date called for 2024-08-05
+2025-11-09 13:13:45,104 - INFO - fetch_expenses_for_date called for 2024-08-06
+2025-11-09 13:13:47,986 - INFO - fetch_expenses_for_date called for 2024-08-07
+2025-11-09 13:13:53,042 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:14:14,535 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:14:18,454 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:14:20,489 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 13:14:22,258 - INFO - fetch_expenses_for_date called for 2024-08-04
+2025-11-09 13:14:26,687 - INFO - fetch_expenses_for_date called for 2024-08-05
+2025-11-09 13:14:30,667 - INFO - fetch_expenses_for_date called for 2024-08-13
+2025-11-09 13:14:32,645 - INFO - fetch_expenses_for_date called for 2024-08-06
+2025-11-09 13:14:34,872 - INFO - fetch_expenses_for_date called for 2024-08-07
+2025-11-09 13:14:36,722 - INFO - fetch_expenses_for_date called for 2024-08-08
+2025-11-09 13:14:39,993 - INFO - fetch_expenses_for_date called for 2024-08-09
+2025-11-09 13:14:41,815 - INFO - fetch_expenses_for_date called for 2024-08-10
+2025-11-09 13:14:44,229 - INFO - fetch_expenses_for_date called for 2024-08-12
+2025-11-09 13:14:46,003 - INFO - fetch_expenses_for_date called for 2024-08-13
+2025-11-09 13:14:47,801 - INFO - fetch_expenses_for_date called for 2024-08-15
+2025-11-09 13:14:50,684 - INFO - fetch_expenses_for_date called for 2024-08-16
+2025-11-09 13:14:52,454 - INFO - fetch_expenses_for_date called for 2024-08-17
+2025-11-09 13:14:53,894 - INFO - fetch_expenses_for_date called for 2024-08-19
+2025-11-09 13:14:55,302 - INFO - fetch_expenses_for_date called for 2024-08-28
+2025-11-09 13:14:57,748 - INFO - fetch_expenses_for_date called for 2024-08-29
+2025-11-09 13:14:59,470 - INFO - fetch_expenses_for_date called for 2024-08-30
+2025-11-09 13:15:01,254 - INFO - fetch_expenses_for_date called for 2024-08-31
+2025-11-09 13:15:02,631 - INFO - fetch_expenses_for_date called for 2024-08-26
+2025-11-09 13:15:04,167 - INFO - fetch_expenses_for_date called for 2024-08-07
+2025-11-09 13:15:05,367 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:17:42,915 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:17:46,137 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 13:17:49,475 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:19:16,561 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 13:23:02,244 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:09:29,263 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:12:39,695 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 14:12:42,013 - INFO - fetch_expenses_for_date called for 2025-09-02
+2025-11-09 14:12:44,877 - INFO - fetch_expenses_for_date called for 2025-09-11
+2025-11-09 14:13:08,559 - INFO - fetch_expenses_for_date called for 2025-09-11
+2025-11-09 14:13:08,600 - INFO - delete_expense_for_date called for 2025-09-11
+2025-11-09 14:13:08,611 - INFO - insert_expense called with data : 2025-09-11, amount : 50.0,category : Food,notes : Pizza
+2025-11-09 14:13:08,628 - INFO - insert_expense called with data : 2025-09-11, amount : 100.0,category : Shopping,notes : Cloths
+2025-11-09 14:13:17,139 - INFO - fetch_expenses_for_date called for 2025-09-02
+2025-11-09 14:13:18,607 - INFO - fetch_expenses_for_date called for 2025-09-11
+2025-11-09 14:14:05,389 - INFO - fetch_expenses_for_date called for 2025-09-11
+2025-11-09 14:14:05,428 - INFO - delete_expense_for_date called for 2025-09-11
+2025-11-09 14:14:08,483 - INFO - fetch_expenses_for_date called for 2025-09-10
+2025-11-09 14:14:10,694 - INFO - fetch_expenses_for_date called for 2025-09-11
+2025-11-09 14:27:42,956 - INFO - fetch_expenses_for_date called for 2025-11-09
+2025-11-09 14:28:45,215 - INFO - fetch_expenses_for_date called for 0024-08-02
+2025-11-09 14:29:04,923 - INFO - fetch_expenses_for_date called for 0024-08-02
+2025-11-09 14:29:35,299 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:29:36,634 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:31:00,603 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:32:09,966 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:32:50,948 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:34:10,957 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:34:36,989 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:35:06,185 - INFO - fetch_expenses_for_date called for 0024-08-01
+2025-11-09 14:35:17,001 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:36:31,823 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:37:17,953 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:38:03,446 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:38:55,807 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:39:14,905 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:39:31,430 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:40:20,036 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:41:21,077 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:43:32,417 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:44:40,779 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:45:22,665 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:47:41,750 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:49:55,007 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:50:04,845 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:50:11,135 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:50:13,227 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:50:15,429 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:50:17,453 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 14:50:19,403 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:50:20,859 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:50:29,614 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:50:34,839 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 14:50:36,712 - INFO - fetch_expenses_for_date called for 2024-08-04
+2025-11-09 14:50:41,915 - INFO - fetch_expenses_for_date called for 2024-08-05
+2025-11-09 14:50:43,566 - INFO - fetch_expenses_for_date called for 2024-08-06
+2025-11-09 14:50:45,205 - INFO - fetch_expenses_for_date called for 2024-08-07
+2025-11-09 14:50:47,833 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:52:08,174 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:52:10,476 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:54:09,951 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:55:53,654 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:55:56,861 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:56:02,570 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:56:08,217 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 14:56:15,193 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:56:16,560 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 14:59:42,101 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 14:59:55,144 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 15:00:02,435 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:01:05,834 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:01:13,183 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:01:26,699 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:02:09,959 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:02:22,341 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 15:02:34,501 - INFO - fetch_expenses_for_date called for 2025-08-01
+2025-11-09 15:02:55,871 - INFO - fetch_expenses_for_date called for 2025-08-01
+2025-11-09 15:02:55,899 - INFO - delete_expense_for_date called for 2025-08-01
+2025-11-09 15:02:55,909 - INFO - insert_expense called with data : 2025-08-01, amount : 100.0,category : Shopping,notes : glasses
+2025-11-09 15:02:55,925 - INFO - insert_expense called with data : 2025-08-01, amount : 50.0,category : Food,notes : vadapav
+2025-11-09 15:03:03,747 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:03:05,011 - INFO - fetch_expenses_for_date called for 2025-08-01
+2025-11-09 15:03:29,174 - INFO - fetch_expenses_for_date called for 2025-08-01
+2025-11-09 15:03:29,203 - INFO - delete_expense_for_date called for 2025-08-01
+2025-11-09 15:03:32,930 - INFO - fetch_expenses_for_date called for 2025-08-02
+2025-11-09 15:03:34,575 - INFO - fetch_expenses_for_date called for 2025-08-01
+2025-11-09 15:05:00,810 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:04:09,242 - INFO - fetch_expenses_for_date called for 2024-08-02
+2025-11-09 16:04:31,378 - INFO - fetch_expenses_for_date called for 2024-08-03
+2025-11-09 16:04:33,051 - INFO - fetch_expenses_for_date called for 2024-08-04
+2025-11-09 16:04:35,844 - INFO - fetch_expenses_for_date called for 2024-08-06
+2025-11-09 16:04:37,292 - INFO - fetch_expenses_for_date called for 2024-08-05
+2025-11-09 16:24:07,939 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:27:28,476 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:29:55,658 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:30:19,828 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:35:15,136 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:37:26,677 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:38:19,400 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:38:52,315 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:42:04,691 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:43:05,140 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:43:52,910 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:44:39,305 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:45:45,817 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:49:52,375 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:50:42,504 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:50:42,543 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:51:31,066 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:51:31,107 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:52:57,313 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:52:57,357 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:53:08,425 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:53:08,466 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:53:12,339 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:53:12,374 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:53:23,371 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:53:23,413 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:54:41,018 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:54:41,059 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:56:14,765 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:56:14,808 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:57:40,468 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:57:40,502 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 16:58:18,879 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 16:58:18,914 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:08:35,622 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:08:35,668 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:09:02,976 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:09:03,017 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:09:07,382 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:09:07,420 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:09:11,507 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:09:11,545 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:09:29,209 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:09:29,257 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:09:53,296 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:09:53,333 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:10:04,017 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:10:04,061 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:10:47,274 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:10:47,317 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:10:52,224 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:10:52,261 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:11:00,640 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:00,678 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-02
+2025-11-09 17:11:02,713 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:02,749 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-03
+2025-11-09 17:11:04,670 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:04,711 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-07
+2025-11-09 17:11:07,473 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:07,511 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-08
+2025-11-09 17:11:10,269 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:10,306 - INFO - fetch_expense_summary called with start : 2024-08-07, end : 2024-08-08
+2025-11-09 17:11:13,417 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:13,457 - INFO - fetch_expense_summary called with start : 2024-08-08, end : 2024-08-08
+2025-11-09 17:11:14,940 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:14,977 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-08
+2025-11-09 17:11:16,660 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:16,695 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-01
+2025-11-09 17:11:20,965 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:11:21,004 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-02
+2025-11-09 17:17:49,564 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:18:14,004 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:18:15,507 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:18:15,549 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-02
+2025-11-09 17:18:57,971 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:19:00,312 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:19:00,348 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-02
+2025-11-09 17:20:57,506 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:21:02,437 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:21:02,474 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:21:45,482 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:21:46,707 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:21:46,744 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:22:35,166 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:37,595 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:37,653 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:22:39,521 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:39,554 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:22:51,589 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:52,967 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:53,005 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:22:56,110 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:57,305 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:22:57,342 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-08
+2025-11-09 17:22:59,654 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:00,974 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:01,012 - INFO - fetch_expense_summary called with start : 2024-08-03, end : 2024-08-08
+2025-11-09 17:23:15,251 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:16,668 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:16,707 - INFO - fetch_expense_summary called with start : 2024-08-03, end : 2024-08-08
+2025-11-09 17:23:31,305 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:32,259 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:32,301 - INFO - fetch_expense_summary called with start : 2024-08-03, end : 2024-08-08
+2025-11-09 17:23:35,715 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:38,332 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:23:38,369 - INFO - fetch_expense_summary called with start : 2024-08-03, end : 2024-08-09
+2025-11-09 17:24:21,492 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:24:23,699 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:24:23,736 - INFO - fetch_expense_summary called with start : 2024-08-03, end : 2024-08-09
+2025-11-09 17:25:38,214 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:25:41,121 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:25:41,159 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:26:20,194 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:26:21,357 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:26:21,391 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:26:36,722 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:26:38,050 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:26:38,089 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:27:55,698 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:27:57,302 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:27:57,341 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:28:39,227 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:28:55,276 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:28:58,653 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:28:58,692 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:31:49,736 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:31:51,120 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:31:51,162 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:32:00,511 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:32:01,987 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:32:02,024 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:34:37,220 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:34:47,867 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:34:56,989 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:35:25,291 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:35:26,972 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:35:27,010 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:35:59,727 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:36:01,128 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:36:01,188 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:36:08,324 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:36:09,719 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:36:09,755 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:36:53,168 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:36:55,261 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:36:55,306 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:37:10,234 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:37:10,273 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 17:37:15,006 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:37:17,045 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:37:17,084 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:37:26,139 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:37:27,580 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:37:27,618 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:39:12,717 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:39:14,664 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:39:14,706 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:39:21,924 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:39:23,647 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:39:23,685 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:39:59,952 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:40:01,052 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:40:01,089 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:40:14,951 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:40:30,730 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:40:31,502 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:40:31,541 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-06
+2025-11-09 17:41:03,099 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:41:06,274 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:41:07,420 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:41:07,458 - INFO - fetch_expense_summary called with start : 2024-08-05, end : 2024-08-01
+2025-11-09 17:41:15,661 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:41:17,488 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:41:17,526 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-01
+2025-11-09 17:42:37,635 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:44:00,201 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:47:44,118 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:48:12,278 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:48:15,082 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:48:52,366 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:48:53,619 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 17:48:53,660 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 18:01:47,892 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:01:55,479 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:01:55,516 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 18:03:07,382 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:03:13,920 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:03:13,960 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 18:04:12,046 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:04:13,571 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:04:13,609 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2025-11-09 18:05:02,545 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:05:04,319 - INFO - fetch_expenses_for_date called for 2024-08-01
+2025-11-09 18:05:04,362 - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
