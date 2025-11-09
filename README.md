@@ -1,4 +1,4 @@
-#  Expense Tracking System
+# 💰 Expense Tracking System
 
 An **Expense Tracking System** built using **Python**, **Streamlit**, and **FastAPI** that helps users **manage, analyze, and visualize** their spending habits efficiently.  
 It provides an intuitive interface to **add, update, and view expenses**, attach **notes**, and view **category-wise analytics** (including total spent and percentage breakdown) with a **visual bar chart** representation.
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Backend (FastAPI)
 ```
 cd "./backend"
-uvicorn backend.server:app --reload
+uvicorn server:app --reload
 ```
 ### 4️⃣ Run the Frontend (Streamlit)
 ```
